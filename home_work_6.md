@@ -131,4 +131,4 @@ apt update
 ```
 apt install percona-server-server-5.7
 ```
-5) Проверить ```musql -V```
+5) Проверить ```mysql -V```
